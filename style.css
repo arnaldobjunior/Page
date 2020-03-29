@@ -23,7 +23,7 @@
 	color:#678250;
 	}
 .header{
-  background-image: url("../img/3.jpg");
+  background-image: url("3.jpg");
   background-position: center top;
   background-repeat: no-repeat;
   /*cobre toda a tela*/
@@ -57,7 +57,7 @@ a:link {
   text-decoration:none;
 }
 .content{
-  background-image: url("../img/fundo.jpg");
+  background-image: url("fundo.jpg");
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -67,7 +67,7 @@ a:link {
   font-family: "Lucida Sans Unicode";
 }
 .img{
-  background-image: url("../img/2.jpg");
+  background-image: url("2.jpg");
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
